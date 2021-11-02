@@ -7,17 +7,18 @@ https://drive.google.com/drive/folders/13pfoyH6KhdAgIC59hMU5GhSoH3osHR2d?usp=sha
 
 Maquetado Unity 
 
+![image](https://user-images.githubusercontent.com/45986551/139790303-e7bd32fb-ab3d-437f-bcb6-e352fd9ff288.png)
 
+Visor Unity 
 
-# PRESENTACIÓN
-- 👋 Hola, Mi nombre es Gerson Rhu Botelho
-- 🧑‍💻 Soy estudiante de la carrera de Ingenieria en Sistemas en la Univesidad Franz Tamayo
-- 👀 Me gusta ayudar a los niños, personas de la tercera edad y de bajos recursos a los animales de la calle
-- 🌱 Actualmente estoy tomando cursos de Cisco, Platzi, Udemy, Ui Path y otras plataformas de cursos Online, me considero una persona autodidacta
-- Me encanta aprender y compartir mi conocimiento
-- 💞️ Estoy buscando colaborar en proyecto de Seguridad Informaticá, Internet de las Cosas, Big Data, Realidad Virtual, Realidad Aumentada,todo lo relacionado con la Industria 4.0
-- 📫 ¿Comó contactarme?
-- 👾 Acá te dejo mis redes sociales
+![image](https://user-images.githubusercontent.com/45986551/139790375-344f3f6e-dc0e-45fe-a2a9-73903dd63da8.png)
+
+Aplicacion en Android 
+
+![image](https://user-images.githubusercontent.com/45986551/139790419-61b6bd9c-7498-4659-a635-d1760a1a0b55.png)
+
+# Contactame
+- 
 - [Facebook](https://www.facebook.com/jasan.rhu.3/)
 - [LinkedIn](https://www.linkedin.com/in/gerson-rhu-botelho-000ab81b0/)
 - [Whatsapp](https://wa.link/77op3n)
