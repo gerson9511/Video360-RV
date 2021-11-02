@@ -1,0 +1,679 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.15f2 (6cf78cb77498) revision 7141260'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1110; Version 2009; 64bit' Language: 'es' Physical Memory: 8094 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Disco D\Programas\Instaladores Software\6 SEM\PGM\Unity\2018.4.19f1\2020.3.15f2\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+D:/Disco D/Documentos/UNIFRANZ/Semestre 9/RAV/H3/Proyectos/Juego/JuegoRA
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+53605
+Successfully changed project path to: D:/Disco D/Documentos/UNIFRANZ/Semestre 9/RAV/H3/Proyectos/Juego/JuegoRA
+D:/Disco D/Documentos/UNIFRANZ/Semestre 9/RAV/H3/Proyectos/Juego/JuegoRA
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 76.06 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.15f2 (6cf78cb77498)
+[Subsystems] Discovering subsystems at path D:/Disco D/Programas/Instaladores Software/6 SEM/PGM/Unity/2018.4.19f1/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Disco D/Documentos/UNIFRANZ/Semestre 9/RAV/H3/Proyectos/Juego/JuegoRA/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   
+    VRAM:     128 MB
+    Driver:   10.18.10.4653
+Initialize mono
+Mono path[0] = 'D:/Disco D/Programas/Instaladores Software/6 SEM/PGM/Unity/2018.4.19f1/2020.3.15f2/Editor/Data/Managed'
+Mono path[1] = 'D:/Disco D/Programas/Instaladores Software/6 SEM/PGM/Unity/2018.4.19f1/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Disco D/Programas/Instaladores Software/6 SEM/PGM/Unity/2018.4.19f1/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56664
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Disco D/Programas/Instaladores Software/6 SEM/PGM/Unity/2018.4.19f1/2020.3.15f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.017297 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 60.64 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.089 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3089ms)
+		BeginReloadAssembly (89ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (948ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (309ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (52ms)
+			SetupLoadedEditorAssemblies (329ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (61ms)
+				BeforeProcessingInitializeOnLoad (11ms)
+				ProcessInitializeOnLoadAttributes (129ms)
+				ProcessInitializeOnLoadMethodAttributes (121ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (1ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.127673 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.686 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2688ms)
+		BeginReloadAssembly (234ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (27ms)
+		EndReloadAssembly (2362ms)
+			LoadAssemblies (833ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (487ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (78ms)
+			SetupLoadedEditorAssemblies (790ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (680ms)
+				ProcessInitializeOnLoadMethodAttributes (7ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.47 seconds
+Refreshing native plugins compatible for Editor in 1.07 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1645 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 39 unused Assets to reduce memory usage. Loaded Objects now: 2082.
+Total: 3.565200 ms (FindLiveObjects: 0.198000 ms CreateObjectMapping: 0.086100 ms MarkObjects: 3.129600 ms  DeleteObjects: 0.149600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Escenas/V360.unity
+  artifactKey: Guid(d5783b98d89d11742ab6e1ccab5a734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Escenas/V360.unity using Guid(d5783b98d89d11742ab6e1ccab5a734c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d728ea7547cc4169d64f732a5d3ebc') in 0.027247 seconds 
+  Import took 0.087463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 258.209546 seconds.
+  path: Assets/GoogleVR
+  artifactKey: Guid(0d58fe5d6aa8a374bbbd021eb3b1923b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR using Guid(0d58fe5d6aa8a374bbbd021eb3b1923b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2b2065e3883b9be9d68ba2efc4c24a') in 0.013799 seconds 
+  Import took 0.057708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.816410 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(ee9540d59c3dfe64abbf76c116c9baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(ee9540d59c3dfe64abbf76c116c9baa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc231ddaa16c26497d82cc17f99472d') in 0.012804 seconds 
+  Import took 0.046578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.821300 seconds.
+  path: Assets/Plugins/Android
+  artifactKey: Guid(e578b1c95e0b11a42acb3e620d5ac073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android using Guid(e578b1c95e0b11a42acb3e620d5ac073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5493a8f75162563f9970e9a9c8358a3') in 0.033463 seconds 
+  Import took 0.071903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.922228 seconds.
+  path: Assets/Recursos/3D/aldea.JPG
+  artifactKey: Guid(3722992f6c916cb4895b0b5d5d0b57ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/3D/aldea.JPG using Guid(3722992f6c916cb4895b0b5d5d0b57ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ceca384de2a0f883cdc8066c293aa4') in 0.911705 seconds 
+  Import took 0.942727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000753 seconds.
+  path: Assets/Recursos/3D/Narnia.JPG
+  artifactKey: Guid(a86f0327dbfb7824b9c122bcf2b45623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/3D/Narnia.JPG using Guid(a86f0327dbfb7824b9c122bcf2b45623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '997f3f2a7227adaccbed85e90198ddd2') in 0.094953 seconds 
+  Import took 0.127437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.148354 seconds.
+  path: Assets/Recursos/3D/Materials
+  artifactKey: Guid(d4a1005e329711d418870f6200379158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/3D/Materials using Guid(d4a1005e329711d418870f6200379158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11a18bc2ee8fffe24cfc360651dc3987') in 0.022896 seconds 
+  Import took 0.056381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.104525 seconds.
+  path: Assets/Recursos/3D/Materials/aldea.mat
+  artifactKey: Guid(060fc3513c328e44bb048b4359d40248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/3D/Materials/aldea.mat using Guid(060fc3513c328e44bb048b4359d40248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33b1ec06ae90d197b1eb9ede33592f88') in 0.705870 seconds 
+  Import took 0.739568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/Recursos/3D/Materials/Narnia.mat
+  artifactKey: Guid(a436772b9b9ca704a8d07d1fba017d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/3D/Materials/Narnia.mat using Guid(a436772b9b9ca704a8d07d1fba017d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cb2eefd8bfc2c1230963a168a3ec670') in 0.053489 seconds 
+  Import took 0.075065 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007960 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.838 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1838ms)
+		BeginReloadAssembly (176ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (50ms)
+		EndReloadAssembly (1566ms)
+			LoadAssemblies (143ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (508ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (698ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (600ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.74 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1624 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.9 MB.
+System memory in use after: 90.0 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 2125.
+Total: 3.701500 ms (FindLiveObjects: 0.226500 ms CreateObjectMapping: 0.115100 ms MarkObjects: 3.240500 ms  DeleteObjects: 0.117500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 239.580614 seconds.
+  path: Assets/Recursos/Shader
+  artifactKey: Guid(98fce8fb109750c4d84afd253666bb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Shader using Guid(98fce8fb109750c4d84afd253666bb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f89d22015b0f074f26c52d94a75c70') in 0.015620 seconds 
+  Import took 0.049251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.983919 seconds.
+  path: Assets/Recursos/Material
+  artifactKey: Guid(7615682f233ce4f4da42f6a8326ff696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Material using Guid(7615682f233ce4f4da42f6a8326ff696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30f934161bd273db09a8fe2e57dc6792') in 0.009039 seconds 
+  Import took 0.043373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.136112 seconds.
+  path: Assets/Recursos/Material/v360.mat
+  artifactKey: Guid(e69913e39ec9c9d44ac86ec11e0d4445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Material/v360.mat using Guid(e69913e39ec9c9d44ac86ec11e0d4445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8a7142c71932de59dbed8e9f0234a31') in 0.274699 seconds 
+  Import took 0.306093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.750519 seconds.
+  path: Assets/Recursos/Material/NuevoSurfaceShader.shader
+  artifactKey: Guid(5bdb374760627794abccda51eec62db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Material/NuevoSurfaceShader.shader using Guid(5bdb374760627794abccda51eec62db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9194510f80b139aad98763822c876a36') in 0.243766 seconds 
+  Import took 0.284127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.946264 seconds.
+  path: Assets/Recursos/Material/NuevoSurfaceShader.shader
+  artifactKey: Guid(5bdb374760627794abccda51eec62db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Material/NuevoSurfaceShader.shader using Guid(5bdb374760627794abccda51eec62db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9194510f80b139aad98763822c876a36') in 0.013097 seconds 
+  Import took 0.022492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.440979 seconds.
+  path: Assets/Recursos/Videos 360
+  artifactKey: Guid(03dd869707a42484d93e98fae1868e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Videos 360 using Guid(03dd869707a42484d93e98fae1868e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '114ebff3c36fb09a3f1e87a80e45530e') in 0.011812 seconds 
+  Import took 0.045256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028826 seconds.
+  path: Assets/Recursos/Videos 360/360_VR Master Series _ Free Download _ View On Low Waterfall with Nice City.mp4
+  artifactKey: Guid(c3f09e667436d444788baf9551a1efe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Videos 360/360_VR Master Series _ Free Download _ View On Low Waterfall with Nice City.mp4 using Guid(c3f09e667436d444788baf9551a1efe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55e9969df9952b8ee9a6cce6f683b45') in 0.092662 seconds 
+  Import took 0.123927 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010912 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.985 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1986ms)
+		BeginReloadAssembly (171ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (54ms)
+		EndReloadAssembly (1720ms)
+			LoadAssemblies (201ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (504ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (77ms)
+			SetupLoadedEditorAssemblies (723ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (78ms)
+				ProcessInitializeOnLoadAttributes (625ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
+Platform modules already initialized, skipping
+Switching build target platform(19) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(524288) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.82 ms, found 7 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1625 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 90.6 MB.
+System memory in use after: 90.2 MB.
+
+Unloading 35 unused Assets to reduce memory usage. Loaded Objects now: 2130.
+Total: 3.754000 ms (FindLiveObjects: 0.213800 ms CreateObjectMapping: 0.083900 ms MarkObjects: 2.892600 ms  DeleteObjects: 0.561700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 278.118975 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/circle.png
+  artifactKey: Guid(2d89a5f92f03449f2bd6c28c914115fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/circle.png using Guid(2d89a5f92f03449f2bd6c28c914115fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f5eb9b7d3e8e75467220d61fdc8722') in 0.286295 seconds 
+  Import took 0.317080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/GoogleVR/GoogleVR/Beta/Textures/Controller6DoF.png
+  artifactKey: Guid(9b5d1610ce929b24c944336a19e52d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Beta/Textures/Controller6DoF.png using Guid(9b5d1610ce929b24c944336a19e52d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7afb5fda69e65afedc2cf6f52518324') in 0.185731 seconds 
+  Import took 0.278605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/cursor_grab.png
+  artifactKey: Guid(72867935ab9d7264ba8abb14b1f860b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/cursor_grab.png using Guid(72867935ab9d7264ba8abb14b1f860b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4be67b3dc72a97ba2683adb004199d') in 0.077493 seconds 
+  Import took 0.114782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000723 seconds.
+  path: Assets/GoogleVR/GoogleVR/Beta/Textures/Controller6DoF.png
+  artifactKey: Guid(9b5d1610ce929b24c944336a19e52d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Beta/Textures/Controller6DoF.png using Guid(9b5d1610ce929b24c944336a19e52d3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7afb5fda69e65afedc2cf6f52518324') in 0.107575 seconds 
+  Import took 0.113153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/cursor_move.png
+  artifactKey: Guid(8e2b5a46da88df34988d7b068cf93af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/cursor_move.png using Guid(8e2b5a46da88df34988d7b068cf93af6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e649c941cd5d2949d235a55ea105a76') in 0.072229 seconds 
+  Import took 0.092964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/cursor_text.png
+  artifactKey: Guid(6da5cd89204da99468e34a61cc7ad99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/cursor_text.png using Guid(6da5cd89204da99468e34a61cc7ad99d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f6424a70cdf2411ff26e6f521899b49') in 0.092152 seconds 
+  Import took 0.105482 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/cursor_pointer.png
+  artifactKey: Guid(9be55a1c895d42a48a59cd0f2fedcb49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/cursor_pointer.png using Guid(9be55a1c895d42a48a59cd0f2fedcb49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1bfad31ee6866db1895d854a2584e32') in 0.060023 seconds 
+  Import took 0.072245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Environment/CubeRoom_BakedDiffuse.png
+  artifactKey: Guid(2b8cd4cf3f22749a9b8e8371a42883c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Environment/CubeRoom_BakedDiffuse.png using Guid(2b8cd4cf3f22749a9b8e8371a42883c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdd037ebec94caad62974ca0f2e479b4') in 0.131098 seconds 
+  Import took 0.157288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000720 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/circle.png
+  artifactKey: Guid(2d89a5f92f03449f2bd6c28c914115fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/circle.png using Guid(2d89a5f92f03449f2bd6c28c914115fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76f5eb9b7d3e8e75467220d61fdc8722') in 0.024462 seconds 
+  Import took 0.032067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000515 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/ControllerTooltips.png
+  artifactKey: Guid(2ec36c18ef93e4d92ab61c818b298aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/ControllerTooltips.png using Guid(2ec36c18ef93e4d92ab61c818b298aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37940fb5aff2c9adca1aaff07c1585d2') in 0.148234 seconds 
+  Import took 0.260320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.249189 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/cursor_url.png
+  artifactKey: Guid(226cfc1dcfd9df449a7c4e33729e0922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/cursor_url.png using Guid(226cfc1dcfd9df449a7c4e33729e0922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f0afd64168eef0db0655a713d8e7f44') in 0.125843 seconds 
+  Import took 0.206079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000833 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/ddcontroller.png
+  artifactKey: Guid(16bedee72525148848c1c905828661fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/ddcontroller.png using Guid(16bedee72525148848c1c905828661fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f3fc79775ed9516e916653fb72df7dd') in 0.126687 seconds 
+  Import took 0.164647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.195545 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/dropShadow.png
+  artifactKey: Guid(3776286ea5437463d95d7054b559df67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/dropShadow.png using Guid(3776286ea5437463d95d7054b559df67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04a60b5d76b7695a5e458e771260ccac') in 0.177814 seconds 
+  Import took 0.210376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/HelloVR_Splash.png
+  artifactKey: Guid(2dcc47444163a4a20982a545ebfb41c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/HelloVR_Splash.png using Guid(2dcc47444163a4a20982a545ebfb41c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '291bf560df1cd8b116a4a901e217131a') in 0.096697 seconds 
+  Import took 0.133581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/HelloVR_AppTile_front.png
+  artifactKey: Guid(c4ae70383ca474f52a620a85650f58e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/HelloVR_AppTile_front.png using Guid(c4ae70383ca474f52a620a85650f58e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c754308488b7096b5888684152499dbd') in 0.096657 seconds 
+  Import took 0.118320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/HelloVR_AppTile_bg.png
+  artifactKey: Guid(288db1a85cba3455c9a11b25773781e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/HelloVR_AppTile_bg.png using Guid(288db1a85cba3455c9a11b25773781e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '702908197d10a19028c0ab7ad3c9f51b') in 0.069410 seconds 
+  Import took 0.087028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/GoogleVR/GoogleVR/Fonts/Roboto-Medium.ttf
+  artifactKey: Guid(4eedafad5084240419e649245c7b2093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Fonts/Roboto-Medium.ttf using Guid(4eedafad5084240419e649245c7b2093) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c4a6d36139ca5d3d42c5d318fd70e4') in 0.252676 seconds 
+  Import took 0.284068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/hollowknob.png
+  artifactKey: Guid(fe4fc8c33a7454cbf8504991c47a12a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/hollowknob.png using Guid(fe4fc8c33a7454cbf8504991c47a12a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fa303535d09556d592010ee190d6818') in 0.093153 seconds 
+  Import took 0.142627 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/ic_launcher_hello_vr_round.png
+  artifactKey: Guid(bd22a15a4cbd649caa948484771a6738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/ic_launcher_hello_vr_round.png using Guid(bd22a15a4cbd649caa948484771a6738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0db317b0d23d8eb57c42efcc038b8ee1') in 0.239905 seconds 
+  Import took 0.268690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000727 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/ic_pause_white_72.png
+  artifactKey: Guid(33fe2a867f53b4dd7b47d13503efb4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/ic_pause_white_72.png using Guid(33fe2a867f53b4dd7b47d13503efb4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb3d4f4e511d75f4eb63f2da515aa113') in 0.048296 seconds 
+  Import took 0.071367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/ic_play_arrow_white_72.png
+  artifactKey: Guid(36597cf9c1ebe400c99c9affa94cfd24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/ic_play_arrow_white_72.png using Guid(36597cf9c1ebe400c99c9affa94cfd24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8eeee5432901337376a0a105894cf6') in 0.053241 seconds 
+  Import took 0.083921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.188781 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/ic_volume_up_white_48.png
+  artifactKey: Guid(738cb298280e345f4908ffe19a6cd591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/ic_volume_up_white_48.png using Guid(738cb298280e345f4908ffe19a6cd591) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f9ada728139230047f0695779f60166') in 0.129167 seconds 
+  Import took 0.141530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/QuadSphere_Blue_BakedDiffuse.png
+  artifactKey: Guid(4d7eb7cd5562b4ed4ae74151e7f631c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/QuadSphere_Blue_BakedDiffuse.png using Guid(4d7eb7cd5562b4ed4ae74151e7f631c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1078202497e9be41aa60faa10d65ca7e') in 0.044179 seconds 
+  Import took 0.049716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/laserTexture.png
+  artifactKey: Guid(e314ee0eb28e9ad4ba2950c17b95c25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/laserTexture.png using Guid(e314ee0eb28e9ad4ba2950c17b95c25d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b548328eaf06721f0d2da57711644b8') in 0.053051 seconds 
+  Import took 0.073410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/loading_bg.png
+  artifactKey: Guid(e4ecb698048ab455babea358c846d5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Images/VideoDemo/loading_bg.png using Guid(e4ecb698048ab455babea358c846d5f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bafaf0bccc633b374cebfcf02761c27') in 0.058890 seconds 
+  Import took 0.083374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/Icosahedron_Pink_BakedDiffuse.png
+  artifactKey: Guid(08c2be6a5c9e8427e9ea097dabf7fe60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/Icosahedron_Pink_BakedDiffuse.png using Guid(08c2be6a5c9e8427e9ea097dabf7fe60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f415e3f4e6b9d7ff1fb0028a241ad4') in 0.043690 seconds 
+  Import took 0.054143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000478 seconds.
+  path: Assets/GoogleVR/GoogleVR/Textures/roundRect_52px.tif
+  artifactKey: Guid(d60ac4d1232f24cfd9193c9724ed0185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Textures/roundRect_52px.tif using Guid(d60ac4d1232f24cfd9193c9724ed0185) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '921006494dd436ec060b64d6d019cf87') in 0.062283 seconds 
+  Import took 0.066624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/Icosahedron_Blue_BakedDiffuse.png
+  artifactKey: Guid(c5c9dbd1aff224a22a1567c3cb9b1c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/Icosahedron_Blue_BakedDiffuse.png using Guid(c5c9dbd1aff224a22a1567c3cb9b1c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8dff33d66ab37a6536458e24bab3792') in 0.080635 seconds 
+  Import took 0.089377 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/QuadSphere_Pink_BakedDiffuse.png
+  artifactKey: Guid(a507f76d80c44438a8197935a65af23a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/QuadSphere_Pink_BakedDiffuse.png using Guid(a507f76d80c44438a8197935a65af23a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f938058f88d90515e7b9f22bbe28857f') in 0.154913 seconds 
+  Import took 0.196589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.635449 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/SafetyRing_Alpha.png
+  artifactKey: Guid(7142fd4da3acd494cbabed95d75673b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/SafetyRing_Alpha.png using Guid(7142fd4da3acd494cbabed95d75673b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adb163c3ad70e5293f8e634a9a85fee8') in 0.047914 seconds 
+  Import took 0.071830 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000715 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/TriSphere_Pink_BakedDiffuse.png
+  artifactKey: Guid(4960285264c024fc1906a7496f9e6c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/TriSphere_Pink_BakedDiffuse.png using Guid(4960285264c024fc1906a7496f9e6c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9236f07ce1c0ad179cdc37bfcdf3e937') in 0.113338 seconds 
+  Import took 0.118745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/TriSphere_Blue_BakedDiffuse.png
+  artifactKey: Guid(57118c062b1274e43b9260e14b00da11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/TriSphere_Blue_BakedDiffuse.png using Guid(57118c062b1274e43b9260e14b00da11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e283917a8856a0f4ee6eb88ba3eb60b0') in 0.048548 seconds 
+  Import took 0.072593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Recursos/Icono/Video360.jpg
+  artifactKey: Guid(76c83b43de79d6e4da285982d7886f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Icono/Video360.jpg using Guid(76c83b43de79d6e4da285982d7886f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b29b2a5002bc03c2628f3b54e034ff') in 0.040842 seconds 
+  Import took 0.052139 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/TriSphere_Blue_BakedDiffuse.png
+  artifactKey: Guid(57118c062b1274e43b9260e14b00da11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/GoogleVR/GoogleVR/Demos/Textures/HelloVR/TriSphere_Blue_BakedDiffuse.png using Guid(57118c062b1274e43b9260e14b00da11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e283917a8856a0f4ee6eb88ba3eb60b0') in 0.015133 seconds 
+  Import took 0.019550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Recursos/Icono/Video360.jpg
+  artifactKey: Guid(76c83b43de79d6e4da285982d7886f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Icono/Video360.jpg using Guid(76c83b43de79d6e4da285982d7886f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b29b2a5002bc03c2628f3b54e034ff') in 0.037118 seconds 
+  Import took 0.043736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 599.730559 seconds.
+  path: Assets/Recursos/Icono/Video360.jpg
+  artifactKey: Guid(76c83b43de79d6e4da285982d7886f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Icono/Video360.jpg using Guid(76c83b43de79d6e4da285982d7886f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b123a08417d56585ec9cfeebcdb977a') in 0.052445 seconds 
+  Import took 0.071372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.836877 seconds.
+  path: Assets/Recursos/Icono
+  artifactKey: Guid(615ba9f62861b0645980d9dff80834ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Icono using Guid(615ba9f62861b0645980d9dff80834ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27197ef671ac08d2a14145d2cfcc82e9') in 0.015619 seconds 
+  Import took 0.079307 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.239527 seconds.
+  path: Assets/Recursos/Icono/Video 360.jpg
+  artifactKey: Guid(9aabc4d02e3aef94e85946ffacead3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Recursos/Icono/Video 360.jpg using Guid(9aabc4d02e3aef94e85946ffacead3bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500db043208f54b28af237ea074db69e') in 0.114822 seconds 
+  Import took 0.159615 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
